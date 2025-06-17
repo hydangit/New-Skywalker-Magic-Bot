@@ -7,8 +7,8 @@ import requests
 from datetime import datetime
 
 # --- Konfigurasi Telegram ---
-TOKEN = 'ISI_TOKEN_TELEGRAM_KAMU'
-CHAT_ID = 'ISI_CHAT_ID_KAMU'
+TOKEN = '7578477675:AAGjqtZM31ls1NJPi-QXUQ2VsPl7bB2wtCQ'
+CHAT_ID = '6682835719'
 
 # --- Setup Binance Futures ---
 exchange = ccxt.binance({
